@@ -30,9 +30,3 @@ Alternant sur l'application fitness **GoGain** depuis juin 2025, avec une contri
 - Intégration d'un coach virtuel IA (mobile, web et API)
 - Migration de l'API et du frontend web de JavaScript vers TypeScript
 - Fonctionnalités d'administration entreprise (licences, audit logs, monitoring)
-
-## 📊 Statistiques GitHub
-
-![](https://github-readme-stats.vercel.app/api?username=cocofox1902&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=cocofox1902&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cocofox1902&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
